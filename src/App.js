@@ -5,7 +5,7 @@ import './index.css';
 function App() {
     return ( <
         Diner dishName = 'Biyani'
-        sweetName = 'Halwa' / >
+        sweetName = 'IceCream' / >
 
 
 
